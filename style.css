@@ -128,6 +128,9 @@ figure img:hover {
     font-size: 12px;
   }
 
+  .card{
+    height: auto;
+  }
   h1 {
     font-size: 18px;
   }
